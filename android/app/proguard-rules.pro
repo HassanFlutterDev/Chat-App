@@ -1,0 +1,3 @@
+-keep class **.zego.**  { *; }
+-keep class **.**.zego_zpns.** { *; }
+-keep class com.hiennv.flutter_callkit_incoming.** { *; }
